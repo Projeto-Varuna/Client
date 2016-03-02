@@ -464,7 +464,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_JUMPKICK] = {
 		"TK_JUMPKICK",
-		SkillName = "Flying Kick",
+		SkillName = "Chute Aéreo",
 		MaxLv = 7,
 		SpAmount = { 70, 60, 50, 40, 30, 20, 10 },
 		bSeperateLv = false,
@@ -472,7 +472,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_HPTIME] = {
 		"TK_HPTIME",
-		SkillName = "Peaceful Break",
+		SkillName = "Trégua Rápida",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -480,7 +480,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_SPTIME] = {
 		"TK_SPTIME",
-		SkillName = "Happy Break",
+		SkillName = "Retiro Rápido",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -496,7 +496,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_SEVENWIND] = {
 		"TK_SEVENWIND",
-		SkillName = "Mild Wind",
+		SkillName = "Brisa Leve",
 		MaxLv = 7,
 		SpAmount = { 20, 20, 20, 20, 50, 50, 50 },
 		bSeperateLv = true,
@@ -509,7 +509,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_HIGHJUMP] = {
 		"TK_HIGHJUMP",
-		SkillName = "Leap",
+		SkillName = "Salto",
 		MaxLv = 5,
 		SpAmount = { 50, 50, 50, 50, 50 },
 		bSeperateLv = true,
@@ -517,7 +517,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_FEEL] = {
 		"SG_FEEL",
-		SkillName = "Solar, Lunar and Stellar Perception",
+		SkillName = "Percepção Solar, Lunar e Estelar",
 		MaxLv = 3,
 		SpAmount = { 100, 100, 100 },
 		bSeperateLv = true,
@@ -525,7 +525,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_SUN_WARM] = {
 		"SG_SUN_WARM",
-		SkillName = "Solar Heat",
+		SkillName = "Calor Solar",
 		MaxLv = 3,
 		SpAmount = { 20, 20, 20 },
 		bSeperateLv = false,
@@ -536,7 +536,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_MOON_WARM] = {
 		"SG_MOON_WARM",
-		SkillName = "Lunar Heat",
+		SkillName = "Calor Lunar",
 		MaxLv = 3,
 		SpAmount = { 20, 20, 20 },
 		bSeperateLv = false,
@@ -547,7 +547,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_STAR_WARM] = {
 		"SG_STAR_WARM",
-		SkillName = "Stellar Heat",
+		SkillName = "Calor Estelar",
 		MaxLv = 3,
 		SpAmount = { 10, 10, 10 },
 		bSeperateLv = false,
@@ -558,7 +558,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_SUN_COMFORT] = {
 		"SG_SUN_COMFORT",
-		SkillName = "Solar Protection",
+		SkillName = "Proteção Solar",
 		MaxLv = 4,
 		SpAmount = { 70, 60, 50, 40 },
 		bSeperateLv = false,
@@ -569,7 +569,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_WARP] = {
 		"AL_WARP",
-		SkillName = "Warp Portal",
+		SkillName = "Portal",
 		MaxLv = 4,
 		SpAmount = { 35, 32, 29, 26 },
 		bSeperateLv = false,
@@ -580,7 +580,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_MOON_COMFORT] = {
 		"SG_MOON_COMFORT",
-		SkillName = "Lunar Protection",
+		SkillName = "Proteção Lunar",
 		MaxLv = 4,
 		SpAmount = { 70, 60, 50, 40 },
 		bSeperateLv = false,
@@ -591,7 +591,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_STAR_COMFORT] = {
 		"SG_STAR_COMFORT",
-		SkillName = "Stellar Protection",
+		SkillName = "Proteção Estelar",
 		MaxLv = 4,
 		SpAmount = { 70, 60, 50, 40 },
 		bSeperateLv = false,
@@ -602,7 +602,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_HATE] = {
 		"SG_HATE",
-		SkillName = "Solar, Lunar and Stellar Opposition",
+		SkillName = "Oposição Solar, Lunar e Estelar",
 		MaxLv = 3,
 		SpAmount = { 100, 100, 100 },
 		bSeperateLv = true,
@@ -610,7 +610,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_SUN_ANGER] = {
 		"SG_SUN_ANGER",
-		SkillName = "Solar Wrath",
+		SkillName = "Fúria Solar",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -621,7 +621,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_MOON_ANGER] = {
 		"SG_MOON_ANGER",
-		SkillName = "Lunar Wrath",
+		SkillName = "Fúria Lunar",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -632,7 +632,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_STAR_ANGER] = {
 		"SG_STAR_ANGER",
-		SkillName = "Stellar Wrath",
+		SkillName = "Fúria Estelar",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -643,7 +643,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_SUN_BLESS] = {
 		"SG_SUN_BLESS",
-		SkillName = "Solar Blessings",
+		SkillName = "Bênção Solar",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -655,7 +655,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_MOON_BLESS] = {
 		"SG_MOON_BLESS",
-		SkillName = "Lunar Blessings",
+		SkillName = "Bênção Lunar",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -667,7 +667,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_STAR_BLESS] = {
 		"SG_STAR_BLESS",
-		SkillName = "Stellar Blessings",
+		SkillName = "Bênção Estelar",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -679,7 +679,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_DEVIL] = {
 		"SG_DEVIL",
-		SkillName = "Solar, Lunar and Stellar Shadow",
+		SkillName = "Sombra Solar, Lunar e Estelar",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -687,7 +687,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_DEVELOPMENT] = {
 		"GD_DEVELOPMENT",
-		SkillName = "Development",
+		SkillName = "Desenvolvimento Permanente",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -695,7 +695,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_FRIEND] = {
 		"SG_FRIEND",
-		SkillName = "Solar, Lunar and Stellar Team-Up",
+		SkillName = "Auxílio Solar, Lunar e Estelar",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -703,7 +703,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_KNOWLEDGE] = {
 		"SG_KNOWLEDGE",
-		SkillName = "Solar, Lunar and Stellar Courier",
+		SkillName = "Transmissão Solar, Lunar e Estelar",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -711,7 +711,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_FUSION] = {
 		"SG_FUSION",
-		SkillName = "Solar, Lunar and Stellar Union",
+		SkillName = "União Solar, Lunar e Estelar",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = { 100 },
@@ -723,7 +723,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_ALCHEMIST] = {
 		"SL_ALCHEMIST",
-		SkillName = "Alchemist Spirit",
+		SkillName = "Espírito do Alquimista",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -731,7 +731,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_BERSERKPITCHER] = {
 		"AM_BERSERKPITCHER",
-		SkillName = "Berserk Pitcher",
+		SkillName = "Arremessar Poção da Fúria Selvagem",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = { 10 },
@@ -740,7 +740,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_MONK] = {
 		"SL_MONK",
-		SkillName = "Monk Spirit",
+		SkillName = "Espírito do Monge",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -748,7 +748,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_HEAL] = {
 		"AL_HEAL",
-		SkillName = "Heal",
+		SkillName = "Curar",
 		MaxLv = 10,
 		SpAmount = { 13, 16, 19, 22, 25, 28, 31, 34, 37, 40 },
 		bSeperateLv = true,
@@ -760,7 +760,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_STAR] = {
 		"SL_STAR",
-		SkillName = "Taekwon Master Spirit",
+		SkillName = "Espírito do Mestre Taekwon",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -768,7 +768,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SAGE] = {
 		"SL_SAGE",
-		SkillName = "Sage Spirit",
+		SkillName = "Espírito do Sábio",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -776,7 +776,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MER_QUICKEN] = {
 		"MER_QUICKEN",
-		SkillName = "Weapon Quicken",
+		SkillName = "Rapidez com Arma",
 		MaxLv = 10,
 		SpAmount = { 14, 18, 22, 26, 30, 34, 38, 42, 46, 50 },
 		bSeperateLv = false,
@@ -784,7 +784,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_CRUSADER] = {
 		"SL_CRUSADER",
-		SkillName = "Crusader Spirit",
+		SkillName = "Espírito do Templário",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -792,7 +792,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SUPERNOVICE] = {
 		"SL_SUPERNOVICE",
-		SkillName = "Super Novice Spirit",
+		SkillName = "Espírito do Superaprendiz",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -803,7 +803,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_KNIGHT] = {
 		"SL_KNIGHT",
-		SkillName = "Knight Spirit",
+		SkillName = "Espírito do Cavaleiro",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -814,7 +814,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_WIZARD] = {
 		"SL_WIZARD",
-		SkillName = "Wizard Spirit",
+		SkillName = "Espírito do Bruxo",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -825,7 +825,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_PRIEST] = {
 		"SL_PRIEST",
-		SkillName = "Priest Spirit",
+		SkillName = "Espírito do Sacerdote",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -836,7 +836,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_BARDDANCER] = {
 		"SL_BARDDANCER",
-		SkillName = "Bard and Dancer Spirits",
+		SkillName = "Espírito dos Artistas",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -844,7 +844,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_TROPIC] = {
 		"EL_TROPIC",
-		SkillName = "Tropic",
+		SkillName = "Calor do Trópico",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -852,7 +852,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_ROGUE] = {
 		"SL_ROGUE",
-		SkillName = "Rogue Spirit",
+		SkillName = "Espírito do Arruaceiro",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -863,7 +863,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_ASSASIN] = {
 		"SL_ASSASIN",
-		SkillName = "Assassin Spirit",
+		SkillName = "Espírito do Mercenário",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -871,7 +871,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_BLACKSMITH] = {
 		"SL_BLACKSMITH",
-		SkillName = "Blacksmith Spirit",
+		SkillName = "Espírito do Ferreiro",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -882,7 +882,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_ADRENALINE2] = {
 		"BS_ADRENALINE2",
-		SkillName = "Full Adrenaline Rush",
+		SkillName = "Adrenalina Concentrada",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = { 64 },
@@ -894,7 +894,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_HUNTER] = {
 		"SL_HUNTER",
-		SkillName = "Hunter Spirit",
+		SkillName = "Espírito do Caçador",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -905,7 +905,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SOULLINKER] = {
 		"SL_SOULLINKER",
-		SkillName = "Soul Linker Spirit",
+		SkillName = "Espírito do Espiritualista",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -940,7 +940,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_INCAGI] = {
 		"AL_INCAGI",
-		SkillName = "Increase Agility",
+		SkillName = "Aumentar Agilidade",
 		MaxLv = 10,
 		SpAmount = { 18, 21, 24, 27, 30, 33, 36, 39, 42, 45 },
 		bSeperateLv = true,
@@ -1053,7 +1053,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ST_PRESERVE] = {
 		"ST_PRESERVE",
-		SkillName = "Preserve",
+		SkillName = "Preservar",
 		MaxLv = 1,
 		SpAmount = { 30 },
 		bSeperateLv = false,
@@ -1064,7 +1064,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ST_FULLSTRIP] = {
 		"ST_FULLSTRIP",
-		SkillName = "Full Strip",
+		SkillName = "Remoção Total",
 		MaxLv = 5,
 		SpAmount = { 22, 24, 26, 28, 30 },
 		bSeperateLv = true,
@@ -1075,7 +1075,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WS_WEAPONREFINE] = {
 		"WS_WEAPONREFINE",
-		SkillName = "Weapon Refine",
+		SkillName = "Aprimorar Armamento",
 		MaxLv = 10,
 		SpAmount = { 30, 30, 30, 30, 30, 30, 30, 30, 30, 30 },
 		bSeperateLv = false,
